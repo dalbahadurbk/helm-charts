@@ -1,4 +1,4 @@
-FROM python:3.10.2-slim
+FROM python:3.13.0rc2-slim
 
 ENV DOCKER_VERSION=20.10.12
 ENV GCLOUD_VERSION=375.0.0
