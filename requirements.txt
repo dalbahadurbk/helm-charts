@@ -1,3 +1,4 @@
-black==22.1.0
+black==24.3.0
 pytest==7.0.1
 PyYAML==6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
