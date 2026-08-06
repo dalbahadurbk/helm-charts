@@ -1,4 +1,4 @@
-FROM python:3.10.2-slim
+FROM python:3.15.0rc1-slim
 
 ENV HELM_VERSION=3.10.2
 
